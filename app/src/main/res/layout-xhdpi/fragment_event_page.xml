@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- tab_page -->
+    <LinearLayout
+        android:id="@+id/layout_tab"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TabHost
+            android:id="@android:id/tabhost"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="#303334"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/event_tab_page_headerTextView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#303334"
+                    android:padding="5dp"
+                    android:textColor="#80BCDA"
+                    android:textSize="18sp" />
+
+                <TabWidget
+                    android:id="@android:id/tabs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="5dp"></TabWidget>
+
+                <FrameLayout
+                    android:id="@android:id/tabcontent"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp">
+
+                    <ScrollView
+                        android:id="@+id/tabSessionsToday"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:fillViewport="true"
+                        android:scrollbars="none">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
+                                android:layout_marginTop="15dp"
+                                android:orientation="horizontal"
+                                android:weightSum="100">
+
+                                <FrameLayout
+                                    android:layout_width="0dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="40">
+
+                                    <org.itstep.mariupol.afishamariupol.widget.RatioImageView
+                                        android:id="@+id/imageView"
+                                        android:layout_width="match_parent"
+                                        android:layout_height="500dp"
+                                        android:layout_gravity="left|start"
+                                        android:padding="5dp" />
+
+                                    <ImageView
+                                        android:layout_width="50dp"
+                                        android:layout_height="30dp"
+                                        android:layout_gravity="left|start"
+                                        android:background="@android:drawable/btn_plus" />
+                                </FrameLayout>
+
+                                <TableLayout
+                                    android:id="@+id/tableSessions"
+                                    android:layout_width="0dp"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="60"
+                                    android:background="#303334"
+                                    android:shrinkColumns="1"></TableLayout>
+                            </LinearLayout>
+
+                            <TextView
+                                android:id="@+id/nextSessionsTitleTextView"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:padding="5dp"
+                                android:text="Расписание"
+                                android:textColor="#80BCDA"
+                                android:textSize="16sp" />
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_horizontal"
+                                android:layout_marginBottom="15dp"
+                                android:fillViewport="true"
+                                android:paddingLeft="5dp"
+                                android:scrollbars="none">
+
+                                <TableLayout
+                                    android:id="@+id/tableNextSessions"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:background="#303334"></TableLayout>
+                            </LinearLayout>
+
+                            <!--TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:paddingLeft="5dp"
+                                android:text="Поделиться: "
+                                android:textColor="#FFFFFF"
+                                android:textSize="14sp" /-->
+
+                        </LinearLayout>
+                    </ScrollView>
+
+                    <ScrollView
+                        android:id="@+id/tabContents"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:fillViewport="true"
+                        android:scrollbars="none">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="vertical">
+
+                            <FrameLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <TextView
+                                    android:id="@+id/eventContentTextView"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center_horizontal"
+                                    android:paddingBottom="10dp"
+                                    android:textColor="#999999" />
+                            </FrameLayout>
+
+                            <FrameLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content">
+
+                                <ImageView
+                                    android:id="@+id/event_page_videoThumbImageView"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="180dp"
+                                    android:layout_gravity="center"
+                                    android:paddingBottom="10dp" />
+
+                                <LinearLayout
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:orientation="vertical">
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="wrap_content"
+                                        android:layout_gravity="center"
+                                        android:shadowColor="#000000"
+                                        android:shadowDx="3"
+                                        android:shadowDy="3"
+                                        android:shadowRadius="5"
+                                        android:text="Посмотреть трейлер"
+                                        android:textColor="#FFFFFF"
+                                        android:textSize="16sp" />
+
+                                    <ImageView
+                                        android:layout_width="30dp"
+                                        android:layout_height="30dp"
+                                        android:layout_gravity="center"
+                                        android:background="@android:drawable/ic_media_play" />
+                                </LinearLayout>
+                            </FrameLayout>
+                        </LinearLayout>
+                    </ScrollView>
+
+                    <ScrollView
+                        android:id="@+id/tabInfo"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_gravity="center_horizontal"
+                        android:background="#303334"
+                        android:fillViewport="true"
+                        android:scrollbars="none">
+
+                        <TableLayout
+                            android:id="@+id/tableInfo"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:shrinkColumns="1"></TableLayout>
+                    </ScrollView>
+                </FrameLayout>
+            </LinearLayout>
+
+            <include layout="@layout/share_panel" />
+        </TabHost>
+    </LinearLayout>
+
+    <!-- whole_page -->
+    <FrameLayout
+        android:id="@+id/layout_whole"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#303334"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/event_whole_page_headerTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:textColor="#80BCDA"
+                android:textSize="18sp" />
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fillViewport="true"
+                android:scrollbars="none">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="15dp"
+                        android:background="#303334"
+                        android:orientation="horizontal"
+                        android:weightSum="2">
+
+                        <FrameLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1">
+
+                            <org.itstep.mariupol.afishamariupol.widget.RatioImageView
+                                android:id="@+id/not_cinema_event_imageView"
+                                android:layout_width="match_parent"
+                                android:layout_height="500dp"
+                                android:layout_gravity="left|start"
+                                android:padding="5dp" />
+
+                            <ImageView
+                                android:layout_width="50dp"
+                                android:layout_height="30dp"
+                                android:layout_gravity="left|start"
+                                android:background="@android:drawable/btn_plus" />
+                        </FrameLayout>
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:orientation="vertical">
+
+                            <TextView
+                                android:id="@+id/event_whole_page_place"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:padding="5dp"
+                                android:paddingTop="10dp"
+                                android:textColor="#FFFFFF" />
+
+                            <TextView
+                                android:id="@+id/event_whole_page_time"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:padding="5dp"
+                                android:paddingTop="10dp"
+                                android:textColor="#E4A04C" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:orientation="vertical"
+                        android:paddingTop="5dp">
+
+                        <TextView
+                            android:id="@+id/event_whole_page_content"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:padding="5dp"
+                            android:paddingBottom="0dp"
+                            android:textColor="#999999" />
+
+                        <TextView
+                            android:id="@+id/event_whole_page_additional"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_marginBottom="15dp"
+                            android:padding="5dp"
+                            android:paddingTop="0dp"
+                            android:textColor="#FFFFFF" />
+                    </LinearLayout>
+                </LinearLayout>
+            </ScrollView>
+        </LinearLayout>
+
+        <include layout="@layout/share_panel" />
+    </FrameLayout>
+
+    <TextView
+        android:id="@+id/deviceMarker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="xhdpi"
+        android:visibility="invisible" />
+</FrameLayout>

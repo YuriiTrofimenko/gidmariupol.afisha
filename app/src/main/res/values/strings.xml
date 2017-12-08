@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Pop panel -->
+    <string name="app_name">Афиша Мариуполь</string>
+    <string name="menu_item_refresh_results">Обновить результаты</string>
+
+    <!-- Main page (events gallery) -->
+    <string name="events_gallery_tab_today">Сегодня</string>
+    <string name="events_gallery_tab_tomorrow">Завтра</string>
+
+    <!-- Event page common -->
+    <string name="menu_item_share">Поделиться</string>
+
+    <!-- Event tabs page -->
+    <string name="tab_sessions_today">Сеансы на сегодня</string>
+    <string name="tab_contents">Содержание</string>
+    <string name="tab_info">Info</string>
+
+    <!-- Video player -->
+    <string name="video_play">Play</string>
+    <string name="video_stop">Stop</string>
+    <string name="video_description">Video description</string>
+
+</resources>

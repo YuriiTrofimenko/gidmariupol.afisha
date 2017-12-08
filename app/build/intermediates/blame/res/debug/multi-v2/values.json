@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/values/ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "116",
+                        "endColumns": "39",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "169",
+                        "endColumns": "38",
+                        "endOffsets": "203"
+                    }
+                },
+                {
+                    "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,8,9,5,12,16,17,15,22,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "79,247,308,132,403,553,605,488,762,674,718",
+                        "endColumns": "52,60,62,73,54,51,41,64,63,43,43",
+                        "endOffsets": "127,303,366,201,453,600,642,548,821,713,757"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "208,261,322,385,459,514,566,608,673,737,781",
+                        "endColumns": "52,60,62,73,54,51,41,64,63,43,43",
+                        "endOffsets": "256,317,380,454,509,561,603,668,732,776,820"
+                    }
+                },
+                {
+                    "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "16,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "825,1116",
+                        "endLines": "22,25",
+                        "endColumns": "12,12",
+                        "endOffsets": "1111,1271"
+                    }
+                },
+                {
+                    "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                }
+            ]
+        }
+    ]
+}

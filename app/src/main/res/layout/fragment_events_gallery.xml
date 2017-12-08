@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <Button
+            android:id="@+id/eventsGalleryAllButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="ВСЕ"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:background="#555555"/>
+
+        <Button
+            android:id="@+id/eventsGalleryCinemaButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="КИНО"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:background="#80BCDA"/>
+
+        <Button
+            android:id="@+id/eventsGalleryTheatreButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="ТЕАТР"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:background="#E5DC81"/>
+
+        <Button
+            android:id="@+id/eventsGalleryClubsButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="КЛУБЫ И КОНЦЕРТЫ"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:background="#C99CE3"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <Button
+            android:id="@+id/eventsGalleryShowsButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="ВЫСТАВКИ"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:background="#AFC972"/>
+
+        <Button
+            android:id="@+id/eventsGalleryBusinessButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="БИЗНЕС"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:background="#F08B9E"/>
+
+        <Button
+            android:id="@+id/eventsGallerySportButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="СПОРТ"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:background="#656BDD"/>
+
+        <Button
+            android:id="@+id/eventsGalleryFreeButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="FREE"
+            android:textSize="14sp"
+            android:textColor="#FFFFFF"
+            android:background="#C44EA7"/>
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <GridView
+            android:id="@+id/gridView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:columnWidth="180dp"
+            android:numColumns="auto_fit"
+            android:stretchMode="columnWidth"
+            android:background="#303334"/>
+
+        <TextView
+            android:id="@+id/events_gallery_emptyTextView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="16sp"
+            android:textColor="#999999"
+            android:visibility="invisible"
+            android:background="#303334"/>
+
+        <TextView
+            android:id="@+id/deviceMarker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="xhdpi"
+            android:visibility="invisible"/>
+    </FrameLayout>
+</LinearLayout>

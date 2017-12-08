@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#303334">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="5dp"
+        android:weightSum="4">
+
+        <Button
+            android:id="@+id/eventsGalleryAllButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="ВСЕ"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:background="#555555"
+            android:shadowColor="#666666"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="5"/>
+
+        <Button
+            android:id="@+id/eventsGalleryCinemaButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="КИНО"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:background="#80BCDA"
+            android:shadowColor="#666666"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="5"/>
+
+        <Button
+            android:id="@+id/eventsGalleryTheatreButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="ТЕАТР"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:background="#E5DC81"
+            android:shadowColor="#666666"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="5"/>
+
+        <Button
+            android:id="@+id/eventsGalleryClubsButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="КЛУБЫ И КОНЦЕРТЫ"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:background="#C99CE3"
+            android:shadowColor="#666666"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="5"/>
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginBottom="5dp"
+        android:weightSum="4">
+
+        <Button
+            android:id="@+id/eventsGalleryShowsButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="ВЫСТАВКИ"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:background="#AFC972"
+            android:shadowColor="#666666"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="5"/>
+
+        <Button
+            android:id="@+id/eventsGalleryBusinessButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="БИЗНЕС"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:background="#F08B9E"
+            android:shadowColor="#666666"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="5"/>
+
+        <Button
+            android:id="@+id/eventsGallerySportButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="СПОРТ"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:background="#656BDD"
+            android:shadowColor="#666666"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="5"/>
+
+        <Button
+            android:id="@+id/eventsGalleryFreeButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:text="FREE"
+            android:textSize="18sp"
+            android:textColor="#FFFFFF"
+            android:background="#C44EA7"
+            android:shadowColor="#666666"
+            android:shadowDx="3"
+            android:shadowDy="3"
+            android:shadowRadius="5"/>
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <GridView
+            android:id="@+id/gridView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:columnWidth="270dp"
+            android:numColumns="auto_fit"
+            android:stretchMode="columnWidth"
+            android:background="#303334"/>
+
+        <TextView
+            android:id="@+id/events_gallery_emptyTextView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textSize="18sp"
+            android:textColor="#999999"
+            android:visibility="invisible"
+            android:background="#303334"/>
+
+        <TextView
+            android:id="@+id/deviceMarker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="sw600"
+            android:visibility="invisible"/>
+    </FrameLayout>
+</LinearLayout>

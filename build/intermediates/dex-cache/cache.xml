@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Юрий\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.8.3\65fd012581ded67bc20945d85c32b4598c3a9cf1\jsoup-1.8.3.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="65fd012581ded67bc20945d85c32b4598c3a9cf1">
+        <dex dex="D:\Program Files\Android\StudioProjectsItStep\GidMariupolTyaa\app\build\intermediates\pre-dexed\debug\jsoup-1.8.3-22693b982d3221be47ddf3a1daafafbc03e8a832.jar" />
+    </item>
+    <item
+        jar="D:\Program Files\Android\StudioProjectsItStep\GidMariupolTyaa\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\Program Files\Android\StudioProjectsItStep\GidMariupolTyaa\app\build\intermediates\pre-dexed\debug\classes-da784ec8524b309ee8011f38c33e958da3cf4a3c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Юрий\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Program Files\Android\StudioProjectsItStep\GidMariupolTyaa\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-40ee51f1dc9a101ec150e6ad0bfd99b6ee342f62.jar" />
+    </item>
+    <item
+        jar="D:\Program Files\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\Program Files\Android\StudioProjectsItStep\GidMariupolTyaa\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-08f60489d5c0a777441287f9df4383fb4e4e6401.jar" />
+    </item>
+    <item
+        jar="D:\Program Files\Android\StudioProjectsItStep\GidMariupolTyaa\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\Program Files\Android\StudioProjectsItStep\GidMariupolTyaa\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-40384e36217264506f3a39c8800cd32b8c7cfe3d.jar" />
+    </item>
+
+</items>

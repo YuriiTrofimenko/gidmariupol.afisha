@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="viewPager" type="id"/>
+    <string name="app_name">Афиша Мариуполь</string>
+    <string name="events_gallery_tab_today">Сегодня</string>
+    <string name="events_gallery_tab_tomorrow">Завтра</string>
+    <string name="menu_item_refresh_results">Обновить результаты</string>
+    <string name="menu_item_share">Поделиться</string>
+    <string name="tab_contents">Содержание</string>
+    <string name="tab_info">Info</string>
+    <string name="tab_sessions_today">Сеансы на сегодня</string>
+    <string name="video_description">Video description</string>
+    <string name="video_play">Play</string>
+    <string name="video_stop">Stop</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>

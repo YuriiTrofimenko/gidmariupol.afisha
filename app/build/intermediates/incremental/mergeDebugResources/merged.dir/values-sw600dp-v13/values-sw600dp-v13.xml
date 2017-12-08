@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Афиша Мариуполь</string>
+    <string name="clear_search">Clear Search</string>
+    <string name="event_tabs_page_tabWidgetHeight">160</string>
+    <string name="events_gallery_tab_today">Сегодня</string>
+    <string name="events_gallery_tab_tomorrow">Завтра</string>
+    <string name="menu_item_refresh_results">Обновить результаты</string>
+    <string name="new_pictures_text">You have new pictures in PhotoGallery.</string>
+    <string name="new_pictures_title">New PhotoGallery Pictures</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search Flickr</string>
+    <string name="stop_polling">Stop polling</string>
+    <string name="tab_contents">Содержание</string>
+    <string name="tab_info">Info</string>
+    <string name="tab_sessions_today">Сеансы на сегодня</string>
+    <string name="title_activity_photo_gallery">Афиша Мариуполь</string>
+    <string name="video_description">Video description</string>
+    <string name="video_play">Play</string>
+    <string name="video_stop">Stop</string>
+    <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+</resources>
