@@ -1,6 +1,81 @@
 {
     "logs": [
         {
+            "outputFile": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v14/values-xhdpi-v14.xml",
+            "map": [
+                {
+                    "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/values-xhdpi-v14/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/values-xhdpi-v14/strings.xml",
+                    "from": {
+                        "startLines": "3,8,15,16,9,12,11,7,6,10,20,21,19,4,27,25,26",
+                        "startColumns": "4,1,4,4,4,4,4,1,1,4,4,4,4,1,4,4,4",
+                        "startOffsets": "56,344,725,786,398,599,526,305,254,472,944,996,879,106,1154,1066,1110",
+                        "endColumns": "52,50,60,62,73,84,72,38,50,53,51,41,64,69,63,43,43",
+                        "endOffsets": "104,393,781,844,467,679,594,342,303,521,991,1033,939,174,1213,1105,1149"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "208,261,315,376,439,513,598,671,713,767,821,873,915,980,1053,1117,1161",
+                        "endColumns": "52,53,60,62,73,84,72,41,53,53,51,41,64,72,63,43,43",
+                        "endOffsets": "256,310,371,434,508,593,666,708,762,816,868,910,975,1048,1112,1156,1200"
+                    }
+                },
+                {
+                    "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/values-xhdpi-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "1205",
+                        "endLines": "24",
+                        "endColumns": "12",
+                        "endOffsets": "1351"
+                    }
+                },
+                {
+                    "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/values-xhdpi-v14/ids.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "116",
+                        "endColumns": "39",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "169",
+                        "endColumns": "38",
+                        "endOffsets": "203"
+                    }
+                }
+            ]
+        },
+        {
             "outputFile": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xhdpi-v14/values-xhdpi-v14.xml",
             "map": [
                 {

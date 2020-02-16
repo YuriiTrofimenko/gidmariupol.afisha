@@ -40,6 +40,47 @@
                     }
                 }
             ]
+        },
+        {
+            "outputFile": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/values-sw600dp/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1116",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "1262"
+                    }
+                },
+                {
+                    "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/values-sw600dp/strings.xml",
+                    "from": {
+                        "startLines": "3,8,30,15,16,9,12,11,7,6,10,20,21,19,4,27,25,26",
+                        "startColumns": "4,1,4,4,4,4,4,4,1,1,4,4,4,4,1,4,4,4",
+                        "startOffsets": "56,344,1249,725,786,398,599,526,305,254,472,944,996,879,106,1154,1066,1110",
+                        "endColumns": "52,50,63,60,62,73,84,72,38,50,53,51,41,64,69,63,43,43",
+                        "endOffsets": "104,393,1308,781,844,467,679,594,342,303,521,991,1033,939,174,1213,1105,1149"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,108,162,226,287,350,424,509,582,624,678,732,784,826,891,964,1028,1072",
+                        "endColumns": "52,53,63,60,62,73,84,72,41,53,53,51,41,64,72,63,43,43",
+                        "endOffsets": "103,157,221,282,345,419,504,577,619,673,727,779,821,886,959,1023,1067,1111"
+                    }
+                }
+            ]
         }
     ]
 }

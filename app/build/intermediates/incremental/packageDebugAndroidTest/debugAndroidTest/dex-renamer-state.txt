@@ -1,4 +1,4 @@
-#Fri Dec 08 17:43:08 EET 2017
-base.0=/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
+#Sun Feb 16 13:27:23 EET 2020
+base.0=/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/transforms/dexMerger/androidTest/debug/0
 path.0=classes.dex
 renamed.0=classes.dex

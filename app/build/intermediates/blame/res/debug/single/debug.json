@@ -8,28 +8,36 @@
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/dowloading.jpg"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_old.png.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/ic_launcher_old.png"
-    },
-    {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_events_gallery.xml.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-xhdpi/fragment_events_gallery.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/79baa8a05cfbcace82a4aa2b7f1293a3/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_c_cinema.gif.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/c_cinema.gif"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_c_business.gif.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/c_business.gif"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-mdpi_gallery_item.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-mdpi/gallery_item.xml"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_c_free.gif.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/c_free.gif"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_c_sport.gif.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/c_sport.gif"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi_c_free.gif.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable-hdpi/c_free.gif"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-ldpi_fragment_events_gallery.xml.flat",
@@ -44,44 +52,56 @@
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-mdpi/gallery_item.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp_fragment_big_image.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp/fragment_big_image.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp_activity_fragment.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp/activity_fragment.xml"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_c_shows.gif.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/c_shows.gif"
     },
     {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable/notification_bg_low.xml"
+    },
+    {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_fragment_event_tab_page.xml.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/fragment_event_tab_page.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_activity_fragment.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/activity_fragment.xml"
-    },
-    {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable_ic_share_facebook.png.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable/ic_share_facebook.png"
-    },
-    {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable_ic_share_ok.png.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable/ic_share_ok.png"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi_dowloading.jpg.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable-hdpi/dowloading.jpg"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp-land_fragment_photo_page.xml.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp-land/fragment_photo_page.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-mdpi_fragment_event_tab_page.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-mdpi/fragment_event_tab_page.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_event_tab_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-xhdpi/fragment_event_tab_page.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_dowloading_error.jpg.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/dowloading_error.jpg"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable_ic_share_vk.png.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable/ic_share_vk.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/79baa8a05cfbcace82a4aa2b7f1293a3/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-hdpi_fragment_event_tab_page.xml.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-hdpi/fragment_event_tab_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_fragment_event_tab_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout/fragment_event_tab_page.xml"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp_fragment_photo_page.xml.flat",
@@ -100,28 +120,20 @@
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable/ic_share_tw.png"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable_panel_share.9.png.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable/panel_share.9.png"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-ldpi_fragment_event_tab_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-ldpi/fragment_event_tab_page.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_fragment_events_gallery.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/fragment_events_gallery.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_event_page.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-xhdpi/fragment_event_page.xml"
-    },
-    {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable_ic_menu_refresh.png.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable/ic_menu_refresh.png"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable/notification_tile_bg.xml"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-hdpi_fragment_event_whole_page.xml.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-hdpi/fragment_event_whole_page.xml"
-    },
-    {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp_activity_fragment.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp/activity_fragment.xml"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp-land_fragment_big_image.xml.flat",
@@ -132,8 +144,16 @@
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/c_theatre.gif"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp_fragment_event_whole_page.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp/fragment_event_whole_page.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_event_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-xhdpi/fragment_event_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_photo_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-xhdpi/fragment_photo_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi_c_shows.gif.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable-hdpi/c_shows.gif"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-ldpi_fragment_event_whole_page.xml.flat",
@@ -144,72 +164,100 @@
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp-land/activity_fragment.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-mdpi_fragment_event_whole_page.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-mdpi/fragment_event_whole_page.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_media_cancel_action.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/79baa8a05cfbcace82a4aa2b7f1293a3/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_big_image.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-xhdpi/fragment_big_image.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable_ic_share_tw.png.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable/ic_share_tw.png"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_photo_page.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-xhdpi/fragment_photo_page.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_c_clubs.gif.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/c_clubs.gif"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi_c_cinema.gif.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable-hdpi/c_cinema.gif"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-mdpi_fragment_events_gallery.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-mdpi/fragment_events_gallery.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_toggle_share_panel_button.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout/toggle_share_panel_button.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/79baa8a05cfbcace82a4aa2b7f1293a3/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/menu_fragment_events_gallery.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/menu/fragment_events_gallery.xml"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp-land_fragment_event_tab_page.xml.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp-land/fragment_event_tab_page.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_toggle_share_panel_button.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/toggle_share_panel_button.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp-land_fragment_events_gallery.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp-land/fragment_events_gallery.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_old.png.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-mdpi/ic_launcher_old.png"
     },
     {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_fragment_share.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout/fragment_share.xml"
+    },
+    {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp-land_gallery_item.xml.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp-land/gallery_item.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_template_big_media.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/79baa8a05cfbcace82a4aa2b7f1293a3/res/layout/notification_template_big_media.xml"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_fragment_photo_page.xml.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/fragment_photo_page.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp_fragment_event_tab_page.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp/fragment_event_tab_page.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable_ic_share_mailru.png.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable/ic_share_mailru.png"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-ldpi_fragment_event_tab_page.xml.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-ldpi/fragment_event_tab_page.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/menu_fragment_event_page.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/menu/fragment_event_page.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi_c_theatre.gif.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable-hdpi/c_theatre.gif"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp_gallery_item.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp/gallery_item.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp_fragment_events_gallery.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp/fragment_events_gallery.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-ldpi_gallery_item.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-ldpi/gallery_item.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/layout/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-xhdpi_gallery_item.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-xhdpi/gallery_item.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp_fragment_photo_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp/fragment_photo_page.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_fragment_share.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/fragment_share.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp_fragment_big_image.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp/fragment_big_image.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_old.png.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable-xhdpi/ic_launcher_old.png"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable_ic_share_vk.png.flat",
@@ -224,32 +272,388 @@
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-xhdpi/ic_launcher_old.png"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_share_panel.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/share_panel.xml"
-    },
-    {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_fragment_big_image.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/fragment_big_image.xml"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp-land_activity_fragment.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp-land/activity_fragment.xml"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_gallery_item.xml.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/gallery_item.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp-land_fragment_events_gallery.xml.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp-land/fragment_events_gallery.xml"
-    },
-    {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-hdpi_fragment_events_gallery.xml.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-hdpi/fragment_events_gallery.xml"
     },
     {
-        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
-        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable/ic_launcher.png"
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp-land_fragment_photo_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp-land/fragment_photo_page.xml"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable_ic_share_mailru.png.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable/ic_share_mailru.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_old.png.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable-mdpi/ic_launcher_old.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-hdpi_fragment_event_tab_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-hdpi/fragment_event_tab_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_activity_fragment.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout/activity_fragment.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_old.png.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/ic_launcher_old.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp_fragment_event_tab_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp/fragment_event_tab_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp_gallery_item.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp/gallery_item.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi_c_clubs.gif.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable-hdpi/c_clubs.gif"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_c_business.gif.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/c_business.gif"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_c_sport.gif.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/c_sport.gif"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-xhdpi_gallery_item.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-xhdpi/gallery_item.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp_fragment_big_image.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp/fragment_big_image.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_activity_fragment.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/activity_fragment.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable_ic_share_facebook.png.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable/ic_share_facebook.png"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable_ic_share_ok.png.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable/ic_share_ok.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi_c_sport.gif.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable-hdpi/c_sport.gif"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_media_action.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/79baa8a05cfbcace82a4aa2b7f1293a3/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-mdpi_fragment_event_tab_page.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-mdpi/fragment_event_tab_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_fragment_photo_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout/fragment_photo_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-ldpi_gallery_item.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-ldpi/gallery_item.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_dowloading_error.jpg.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/dowloading_error.jpg"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi_dowloading_error.jpg.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable-hdpi/dowloading_error.jpg"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_gallery_item.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout/gallery_item.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp-land_fragment_big_image.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp-land/fragment_big_image.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp_fragment_event_whole_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp/fragment_event_whole_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable_panel_share.9.png.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable/panel_share.9.png"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_fragment_events_gallery.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/fragment_events_gallery.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_event_page.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-xhdpi/fragment_event_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_fragment_events_gallery.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout/fragment_events_gallery.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable_ic_menu_refresh.png.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-hdpi_fragment_events_gallery.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-hdpi/fragment_events_gallery.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable_ic_share_ok.png.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable/ic_share_ok.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp_activity_fragment.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp/activity_fragment.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable_ic_share_facebook.png.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable/ic_share_facebook.png"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp_fragment_event_whole_page.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp/fragment_event_whole_page.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-mdpi_fragment_event_whole_page.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-mdpi/fragment_event_whole_page.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_big_image.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-xhdpi/fragment_big_image.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable_panel_share.9.png.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable/panel_share.9.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-mdpi_fragment_event_tab_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-mdpi/fragment_event_tab_page.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_photo_page.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-xhdpi/fragment_photo_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable_ic_menu_refresh.png.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/79baa8a05cfbcace82a4aa2b7f1293a3/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable-hdpi_c_clubs.gif.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable-hdpi/c_clubs.gif"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_layout_progress_toast.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout/layout_progress_toast.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/79baa8a05cfbcace82a4aa2b7f1293a3/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-mdpi_fragment_events_gallery.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-mdpi/fragment_events_gallery.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/menu_fragment_event_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/menu/fragment_event_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp-land_gallery_item.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp-land/gallery_item.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_toggle_share_panel_button.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/toggle_share_panel_button.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_big_image.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-xhdpi/fragment_big_image.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/79baa8a05cfbcace82a4aa2b7f1293a3/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp_fragment_event_tab_page.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp/fragment_event_tab_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_fragment_big_image.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout/fragment_big_image.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/menu_fragment_event_page.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/menu/fragment_event_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-mdpi_fragment_events_gallery.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-mdpi/fragment_events_gallery.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-hdpi_gallery_item.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-hdpi/gallery_item.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp_gallery_item.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp/gallery_item.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-ldpi_gallery_item.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-ldpi/gallery_item.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-xhdpi_gallery_item.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-xhdpi/gallery_item.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_fragment_share.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/fragment_share.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_fragment_event_whole_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout/fragment_event_whole_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_event_whole_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-xhdpi/fragment_event_whole_page.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_share_panel.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/share_panel.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-hdpi_fragment_event_whole_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-hdpi/fragment_event_whole_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-sw600dp-land_fragment_event_tab_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-sw600dp-land/fragment_event_tab_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-ldpi_fragment_events_gallery.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-ldpi/fragment_events_gallery.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_events_gallery.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-xhdpi/fragment_events_gallery.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_old.png.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable-hdpi/ic_launcher_old.png"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout_fragment_big_image.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout/fragment_big_image.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_share_panel.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout/share_panel.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-hdpi_c_business.gif.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/drawable-hdpi/c_business.gif"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-sw600dp-land_fragment_events_gallery.xml.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-sw600dp-land/fragment_events_gallery.xml"
+    },
+    {
+        "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/drawable/ic_launcher.png"
     },
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/menu_fragment_events_gallery.xml.flat",
@@ -262,5 +666,25 @@
     {
         "merged": "/home/yurii/Projects/Android/GidMariupolTyaa/app/build/intermediates/res/merged/debug/layout-xhdpi_fragment_event_tab_page.xml.flat",
         "source": "/home/yurii/Projects/Android/GidMariupolTyaa/app/src/main/res/layout-xhdpi/fragment_event_tab_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-mdpi_fragment_event_whole_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-mdpi/fragment_event_whole_page.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout_notification_template_custom_big.xml.flat",
+        "source": "/home/yurii/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/48a8fc98d596fa4171eb2a8eb5b09431/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-xhdpi_activity_fragment.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-xhdpi/activity_fragment.xml"
+    },
+    {
+        "merged": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/build/intermediates/res/merged/debug/layout-ldpi_fragment_event_whole_page.xml.flat",
+        "source": "/home/yurii/AndroidStudioProjects/itstep2020_1/gidmariupol.afisha/app/src/main/res/layout-ldpi/fragment_event_whole_page.xml"
     }
 ]
