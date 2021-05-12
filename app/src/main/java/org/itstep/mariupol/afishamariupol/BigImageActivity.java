@@ -1,6 +1,6 @@
 package org.itstep.mariupol.afishamariupol;
 
-import android.support.v4.app.Fragment;
+import androidx.fragment.app.Fragment;
 
 /**
  * класс активности для отображения картинки постера на весь экран

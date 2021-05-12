@@ -2,9 +2,9 @@ package org.itstep.mariupol.afishamariupol;
 
 import android.os.Bundle;
 
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
-import android.support.v4.app.FragmentManager;
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentActivity;
+import androidx.fragment.app.FragmentManager;
 
 /**
  * абстрактный класс, от которого может наследоваться класс активности, использующей один фрагмент

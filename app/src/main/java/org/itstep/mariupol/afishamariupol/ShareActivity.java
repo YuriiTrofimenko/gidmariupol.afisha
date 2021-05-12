@@ -1,6 +1,6 @@
 package org.itstep.mariupol.afishamariupol;
 
-import android.support.v4.app.Fragment;
+import androidx.fragment.app.Fragment;
 
 /**
  * Класс активности экрана создания ссылки на страницу события в "социальных сетях"
